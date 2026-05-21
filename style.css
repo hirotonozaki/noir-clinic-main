@@ -1,0 +1,32 @@
+/*
+Theme Name: NOIR Men's Clinic
+Theme URI: https://example.com/noir-mens-clinic
+Author: (Your Name)
+Author URI: https://example.com
+Description: 高級メンズ美容クリニック「NOIR Men's Clinic」のWordPressテーマ。黒×ゴールドのサイレント・ラグジュアリーを基調とし、FLOCSS / BEM 設計、Vanilla JS で構築。ポートフォリオ作品。
+Version: 1.0.0
+Requires at least: 6.0
+Tested up to: 6.5
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: noir-mens-clinic
+Tags: custom-menu, featured-images, translation-ready
+*/
+
+/*
+ * ──────────────────────────────────────────────────────────
+ *  このファイルについて
+ * ──────────────────────────────────────────────────────────
+ *  WordPress はテーマのルートにある style.css の
+ *  先頭コメントを「テーマ情報」として読み取る。
+ *  そのため、このファイルは "テーマの身分証明書" として必須。
+ *
+ *  実際の見た目を作る CSS は assets/css/style.css 側にある。
+ *  （functions.php の noir_enqueue_assets() で読み込み）
+ *
+ *  このファイル自体にスタイルを書く必要はないが、
+ *  WordPress の作法に従い、念のため最小限の読み込みを
+ *  ここではなく functions.php 側に集約している。
+ * ──────────────────────────────────────────────────────────
+ */
